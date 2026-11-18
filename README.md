@@ -18,5 +18,7 @@ upload dir-of-file-on-you-computer
  ```
 into the `Shell>` after you run. <br>
 
-you can move where you want to send it by just doing cd for mac and idk what for windows.
+you can move where you want to send it by just doing cd for mac and idk what for windows.\
+i lied 鼓鸽 is a packaged version for mac. it automatically moves itself to a hidden folder and is really hard to get rid of (trust me i tried) also it auto restarts so that's nice.\
+***鼓鸽 only has my IP address and don't even try to use it***
 
